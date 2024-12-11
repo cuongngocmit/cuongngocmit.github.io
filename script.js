@@ -40,3 +40,4 @@ document.addEventListener("DOMContentLoaded", function () {
   footer.innerHTML = encodedText; 
   document.body.appendChild(footer); 
 });
+
