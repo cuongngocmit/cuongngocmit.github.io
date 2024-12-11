@@ -35,7 +35,7 @@ function minimizeNotification(button) {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-  var encodedText = '&#84;&#104;&#432;&#417;&#110;&#103;&#32;&#109;&#7865;&#32;&#109;&#7883;&#116;';
+  var encodedText = '&#84;&#104;&#432;&#417;&#110;&#103;&#32;&#69;
   var footer = document.createElement("a");
   footer.innerHTML = encodedText; 
   document.body.appendChild(footer); 
